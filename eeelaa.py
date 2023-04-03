@@ -1,4 +1,4 @@
 class Transformer():
     
-    def transform():
-        pass
+    def transform(x,y):
+        return x+y
